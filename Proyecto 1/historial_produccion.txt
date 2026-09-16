@@ -1,0 +1,16 @@
+HISTORIAL DEL PROCESO DE PRODUCCION
+===================================
+
+Materia prima: seca
+Calidad: buena
+Cantidad: 1
+
+EVENTOS:
+1. Inicio del proceso en: Recepcion de Materia Prima
+2. Recepcion de Materia Prima -> Inspeccion de Calidad
+3. Inspeccion aprobada
+4. Inspeccion de Calidad -> Corte y Dimensionado
+5. Corte y Dimensionado -> Secado y Tratamiento
+6. Secado y Tratamiento -> Almacenado
+7. Almacenado -> Distribuido a Produccion
+8. Intento de avanzar desde Distribuido a Produccion
